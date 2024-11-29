@@ -1,4 +1,4 @@
 name: microsoft
 desc: 加载更流畅的microsoft
-rules:
-   - DOMAIN-SUFFIX,microsoft.com,一元机场
++rules:
+    - 'DOMAIN-SUFFIX,microsoft.com,一元机场'
